@@ -6,16 +6,26 @@ mediante la creacion de plugins y forks.
 
 Integrantes
 
--zPuertah (CEO)
--lcode (CoCEO)
--LK|Ultra (CoCEO)
+-zPuertah 
+<br>
+(CEO)
+<br>
+-lcode 
+<br>
+(CoCEO)
+<br>
+-LK|Ultra
+<br>
+(CoCEO)
 
 Proyectos
 <br>
--Aquarium Core
+Aquarium Core
+<br>
 En desarrollo
 <br>
--Nuriom Spigot 1.7/1.8.8
+Nuriom Spigot 1.7/1.8.8
+<br>
 En desarrollo
 
 Creado Por @zPuertah Inspirado Por @AquinoBy02 y su capiGOD
