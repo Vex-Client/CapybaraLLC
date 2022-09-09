@@ -1,7 +1,8 @@
 # CapybaraLLC
+<br>
 Quienes somos
 
-Somos una organizacion que busca mejorar la experiencia de los jugadores de Minecraf Multiplayer
+Somos una organizacion que busca mejorar la experiencia de los Jugadores de Minecraft Servers
 mediante la creacion de plugins y forks.
 
 Integrantes
