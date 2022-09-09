@@ -11,8 +11,10 @@ Integrantes
 -LK|Ultra (CoCEO)
 
 Proyectos
+<br>
 -Aquarium Core
 En desarrollo
+<br>
 -Nuriom Spigot 1.7/1.8.8
 En desarrollo
 
