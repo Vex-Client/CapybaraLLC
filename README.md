@@ -6,17 +6,11 @@ mediante la creacion de plugins y forks.
 
 Integrantes
 
--zPuertah 
+zPuertah CEO
 <br>
-(CEO)
+lcode CoCEO
 <br>
--lcode 
-<br>
-(CoCEO)
-<br>
--LK|Ultra
-<br>
-(CoCEO)
+LK|Ultra CoCEO
 
 Proyectos
 <br>
