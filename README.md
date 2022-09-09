@@ -13,7 +13,7 @@ Integrantes
 Proyectos
 -Aquarium Core
 En desarrollo
--Aquino Core
+-Nuriom Spigot 1.7/1.8.8
 En desarrollo
 
 Creado Por @zPuertah Inspirado Por @AquinoBy02 y su capiGOD
